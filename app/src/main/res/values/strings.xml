@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SummerPractice</string>
+    <string name="mainText">Выберите количество машин</string>
+    <string name="mainTextButtonChooseCountCars">Нажмите для выбора кол-ва</string>
+    <string name="stringChooseCharacteristics">Введите характеристики</string>
+    <string-array name="typeCars">
+        <item>Кроссовер</item>
+        <item>Купе</item>
+        <item>Седан</item>
+        <item>Спорткар</item>
+    </string-array>
+</resources>
