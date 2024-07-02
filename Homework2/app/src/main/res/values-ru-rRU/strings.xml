@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_screen">Главная</string>
+    <string name="about">О нас</string>
+    <string name="notifications">Уведомления</string>
+    <string name="result">Результат</string>
+    <string name="profile">Профиль</string>
+    <string name="settings">Настройки</string>
+</resources>
