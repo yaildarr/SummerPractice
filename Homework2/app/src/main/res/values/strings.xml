@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Homework2</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="about">About</string>
+    <string name="notifications">notifications</string>
+    <string name="result">Result</string>
+    <string name="profile">profile</string>
+    <string name="settings">Settings</string>
+</resources>
